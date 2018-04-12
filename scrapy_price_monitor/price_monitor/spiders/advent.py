@@ -1,5 +1,4 @@
 from .base_spider import BaseSpider
-from __future__ import absolute_import
 from scrapy import Request
 from scrapy.linkextractors import LinkExtractor
 from scrapy.loader import ItemLoader
